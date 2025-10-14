@@ -1,2 +1,2 @@
-# cyclingnews
-cyclingnews using next and react for learning purpouses
+# coffee-recipes
+coffee-recipes using next and react for learning purposes
